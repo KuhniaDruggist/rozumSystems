@@ -1,11 +1,11 @@
+import React from 'react';
+import styles from './Employees.module.css';
 import {connect} from 'react-redux';
 import {Dispatch} from 'redux';
 import {changeLoading, EmployeesType, setEmployees} from '../../redux/employeesReducer';
 import {RootStateType} from '../../redux/redux-store';
 import Employees from './Employees';
-import React from 'react';
 import {getEmployees} from '../../api/api';
-import styles from './Employees.module.css';
 import Preloader from '../common/Preloader/Preloader';
 
 //Typing for Users component props

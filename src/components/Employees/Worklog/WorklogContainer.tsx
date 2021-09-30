@@ -1,3 +1,4 @@
+import React from 'react';
 import {connect} from 'react-redux';
 import {Dispatch} from 'redux';
 import {RootStateType} from '../../../redux/redux-store';
@@ -5,7 +6,6 @@ import {setEmployeeId, setWorklog, WorklogType} from '../../../redux/worklogRedu
 import Worklog from './Worklog';
 import {getWorklog} from '../../../api/api';
 import {RouteComponentProps, withRouter} from 'react-router';
-import React from 'react';
 import {EmployeesType} from '../../../redux/employeesReducer';
 
 //Typing for Users component props

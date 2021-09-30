@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import {Route} from 'react-router-dom';
 import EmployeesContainer from './components/Employees/EmployeesContainer';
 import WorklogContainer from './components/Employees/Worklog/WorklogContainer';
