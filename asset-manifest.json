@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rozumSystems/static/css/main.b5d66b8a.chunk.css",
+    "main.js": "/rozumSystems/static/js/main.a89920c4.chunk.js",
+    "main.js.map": "/rozumSystems/static/js/main.a89920c4.chunk.js.map",
+    "runtime-main.js": "/rozumSystems/static/js/runtime-main.c25e370c.js",
+    "runtime-main.js.map": "/rozumSystems/static/js/runtime-main.c25e370c.js.map",
+    "static/js/2.af59a840.chunk.js": "/rozumSystems/static/js/2.af59a840.chunk.js",
+    "static/js/2.af59a840.chunk.js.map": "/rozumSystems/static/js/2.af59a840.chunk.js.map",
+    "index.html": "/rozumSystems/index.html",
+    "static/css/main.b5d66b8a.chunk.css.map": "/rozumSystems/static/css/main.b5d66b8a.chunk.css.map",
+    "static/js/2.af59a840.chunk.js.LICENSE.txt": "/rozumSystems/static/js/2.af59a840.chunk.js.LICENSE.txt",
+    "static/media/preloader.4c0dabf6.gif": "/rozumSystems/static/media/preloader.4c0dabf6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c25e370c.js",
+    "static/js/2.af59a840.chunk.js",
+    "static/css/main.b5d66b8a.chunk.css",
+    "static/js/main.a89920c4.chunk.js"
+  ]
+}
